@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanStashuk
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript, CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 My location: Lutsk, Ukraine
 
 <!---
