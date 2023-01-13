@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi, there! I’m @RomanStashuk
 - 👨‍💻 Detail-oriented Front-End Developer working with HTML, CSS, JS and React.
 - 📫 My location: Lutsk, Ukraine
-- :link:[My CV](https://romanstashuk.github.io/resume/)
+- :link:[My CV](https://romanstashuk.github.io/)
 
 
 ### 🛠️ Skills
