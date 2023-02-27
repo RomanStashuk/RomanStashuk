@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! My name is Roman and I'm a Frontend Developer from Ukraine</h1>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hi, there! My name is Roman and I'm a Frontend Developer from Ukraine
 
 ###
 
-<h2 align="left">:link:[My CV](https://romanstashuk.github.io/)</h2>
+## :link:[My CV](https://romanstashuk.github.io/)
 
 ###
 
@@ -13,6 +13,7 @@
 
 ###
 
+## <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
@@ -42,6 +43,7 @@
 
 ###
 
+## Contacts
 <div align="left">
   <a href="https://www.linkedin.com/in/roman-stashuk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
