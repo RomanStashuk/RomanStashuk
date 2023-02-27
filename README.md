@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/roman/roman/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/romanstashuk/romanstashuk/blob/output/snake.svg" alt="Snake animation" />
 
 ###
