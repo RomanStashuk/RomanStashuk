@@ -1,4 +1,4 @@
-Hi, there! My name is Roman and I'm a Frontend Developer from Ukraine
+# Hi, there! My name is Roman and I'm a Frontend Developer from Ukraine
 
 ###
 
@@ -52,7 +52,3 @@ Hi, there! My name is Roman and I'm a Frontend Developer from Ukraine
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/RomanStashuk/RomanStashuk/blob/output/github-contribution-grid-snake.svg)
-
-###
